@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alyarmln.github.io/docs-5ssec6/sitemap.xml
